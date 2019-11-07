@@ -7,6 +7,8 @@ Blender Pie Menu for select mode in Edit Mode and UV Editor.
 ![Image description](https://pictshare.net/30hnt7.png)
 
 
+
+
 # Keymap
 
   
@@ -17,7 +19,9 @@ Blender Pie Menu for select mode in Edit Mode and UV Editor.
   ![Image description](https://pictshare.net/2t9s0h.png)
   
   
+
+
 # Installtion
 
-Just download the select_mode_pie.py and install it as any other Blender Add-on. 
+Just download the last [release](https://github.com/lucasfalcao3d/Select-Mode-Pie/releases/) and install it as any other Blender Add-on. 
   
