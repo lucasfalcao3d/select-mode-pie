@@ -17,3 +17,4 @@ Blender Pie Menu for select mode in Edit Mode and UV Editor.
   
 [![Github All Releases](https://img.shields.io/github/downloads/lucasfalcao3d/Select-Mode-Pie/total.svg)]()
 
+
