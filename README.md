@@ -1,11 +1,14 @@
-# Select Mode Pie <h1>
-  
+Select Mode Pie
+=
+
+
 Blender Pie Menu for select mode in Edit Mode and UV Editor.
 
 ![Image description](https://pictshare.net/30hnt7.png)
 
 
-## Keymap <h2>
+# Keymap
+
   
   The default hotkey for this add-on is SPACE.
   
@@ -14,7 +17,7 @@ Blender Pie Menu for select mode in Edit Mode and UV Editor.
   ![Image description](https://pictshare.net/2t9s0h.png)
   
   
+# Installtion
+
+Just download the select_mode_pie.py and install it as any other Blender Add-on. 
   
-[![Github All Releases](https://img.shields.io/github/downloads/lucasfalcao3d/Select-Mode-Pie/total.svg)]()
-
-
