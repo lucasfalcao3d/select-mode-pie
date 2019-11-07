@@ -12,4 +12,8 @@ Blender Pie Menu for select mode in Edit Mode and UV Editor.
   If you want to change it, find these lines as shown in the image below and change "SPACE" to the hotkey of your choice.  
   
   ![Image description](https://pictshare.net/2t9s0h.png)
+  
+  
+  
+[![Github All Releases](https://img.shields.io/github/downloads/lucasfalcao3d/Select-Mode-Pie/total.svg)]()
 
